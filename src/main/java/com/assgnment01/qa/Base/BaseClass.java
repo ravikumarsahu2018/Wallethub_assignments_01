@@ -20,7 +20,7 @@ public class BaseClass {
 
 		try {
 
-			prop= new Properties();
+			prop= new Properties();  
 
 			// Location of config.properties file
 			String projpath = System.getProperty("user.dir");

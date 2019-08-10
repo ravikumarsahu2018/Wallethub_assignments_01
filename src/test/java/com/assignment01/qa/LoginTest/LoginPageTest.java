@@ -1,3 +1,5 @@
+// This is actual test for login into Facebook.
+
 package com.assignment01.qa.LoginTest;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -10,7 +12,7 @@ import com.assignment01.qa.LoginPage.LoginPage;
 
 public class LoginPageTest extends LoginPage{
 
-	//Global dec of page object
+	//Global declaration of page object
 
 	static public HomePage homepage;
 	static public LoginPage loginpage;
@@ -38,7 +40,6 @@ public class LoginPageTest extends LoginPage{
 			Thread.sleep(5000);
 		}catch (Exception e){ System.out.println(e.getMessage());}
 	}
-
 
 
 	@AfterMethod
