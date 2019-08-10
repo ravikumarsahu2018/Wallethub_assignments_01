@@ -1,3 +1,5 @@
+// Using POM design pattern to create this small framework. 
+
 package com.assignment01.qa.LoginPage;
 
 import org.openqa.selenium.WebElement;
