@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25220" started-at="2019-08-03T07:35:40Z" finished-at="2019-08-03T07:36:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25220" started-at="2019-08-03T07:35:40Z" finished-at="2019-08-03T07:36:05Z">
+      <class name="com.assignment01.qa.LoginTest.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.assignment01.qa.LoginTest.LoginPageTest@52a86356]" name="setup" is-config="true" duration-ms="7399" started-at="2019-08-03T07:35:40Z" finished-at="2019-08-03T07:35:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Logintest()[pri:0, instance:com.assignment01.qa.LoginTest.LoginPageTest@52a86356]" name="Logintest" duration-ms="15681" started-at="2019-08-03T07:35:47Z" finished-at="2019-08-03T07:36:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.assignment01.qa.LoginTest.LoginPageTest@52a86356]" name="teardown" is-config="true" duration-ms="2123" started-at="2019-08-03T07:36:03Z" finished-at="2019-08-03T07:36:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.assignment01.qa.LoginTest.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
