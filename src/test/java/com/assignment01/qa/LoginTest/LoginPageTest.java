@@ -10,7 +10,7 @@ import com.assignment01.qa.LoginPage.LoginPage;
 
 public class LoginPageTest extends LoginPage{
 
-	//Global dec of page object
+	//Global dec   of page object
 
 	static public HomePage homepage;
 	static public LoginPage loginpage;
